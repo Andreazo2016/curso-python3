@@ -1,0 +1,8 @@
+print('string')
+print(1)
+print(2.5)
+print(True)
+print(False)
+print([1,2,3])
+print({'nome':'Andreazo','idade':28})
+print(None)
